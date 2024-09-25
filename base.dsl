@@ -29,6 +29,7 @@ workspace {
             }
         }
 
-        theme https://static.structurizr.com/themes/kubernetes-v0.3/theme.json
+        theme https://raw.githubusercontent.com/lukaslundgren/strpoc/main/theme.json
+        #theme https://static.structurizr.com/themes/kubernetes-v0.3/theme.json
     }
 }

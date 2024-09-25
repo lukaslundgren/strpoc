@@ -1,0 +1,11 @@
+{
+    "name": "POC",
+    "description": "TBD",
+    "elements": [
+        {
+            "tag": "Software System",
+            "background": "#700893",
+            "color": "#e7a2ff"
+        },
+    ]
+}
